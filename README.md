@@ -2,7 +2,7 @@
 
 ![Infectious Rate Among USA by State](USA_Analysis/infectious_rate.png "Infectious Rate")
 
-This is a statistical analysis of COVID-19 Influence on USA, mainly on economy. We generate some business insights for the COVID-19's siuation and main influence on economy by visualization and statistical analysis such as clustering.
+This is a statistical analysis of COVID-19 Influence on USA mainly through geosptial visualization.
 
 ## Requirements
 The work are mainly finished in Python. The dependencies can be installed using the following command:
